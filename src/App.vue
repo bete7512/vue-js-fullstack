@@ -81,6 +81,7 @@ const { result, loading, error } = useQuery(valu);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #185491;
+  text-align:center;
 }
 .m {
   padding: 0.5em;
